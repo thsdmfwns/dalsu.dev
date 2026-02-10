@@ -1,9 +1,9 @@
 ######################## default configuration ####################
 baseURL = "/"
-title = "Bookworm Light - HUGO Blog Theme"
+title = "dalsu.dev"
 theme = "bookworm-light-hugo"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
-timeZone = "America/New_York"
+timeZone = "Asia/Seoul"
 # post pagination
 pagination.pagerSize = 5 # see https://gohugo.io/extras/pagination/
 # post excerpt

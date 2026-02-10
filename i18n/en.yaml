@@ -5,10 +5,10 @@
   translation: Our Instagram
 
 - id: name
-  translation: Your Name
+  translation: 이름
 
 - id: email
-  translation: Email Address
+  translation: 이메일
 
 - id: subject
   translation: Subject
@@ -38,8 +38,8 @@
   translation: Read Article
 
 - id: showing_posts_from
-  translation: Showing posts from
-
+  translation: ""
+  
 - id: home
   translation: Home
 
@@ -59,10 +59,10 @@
   translation: Designed & Developed By
 
 - id: search_input_placeholder
-  translation: Search Bookworm..
+  translation: 검색어를 입력하세요..
 
 - id: no_results_for
-  translation: No results for
+  translation: 아무련 결과가 없습니다.
 
 - id: empty_search_results_placeholder
-  translation: Type something to search..
+  translation: 검색어를 입력하세요..
