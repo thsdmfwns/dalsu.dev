@@ -140,5 +140,5 @@ vite.config.ts.timestamp-*
 
 # hugo
 public
-public/*
+public/**/*
 
