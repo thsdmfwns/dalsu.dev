@@ -40,3 +40,8 @@ weight = 3
 name = "Terms & Conditions"
 url = "terms-conditions/"
 weight = 4
+
+[[footer]]
+name = "Credits & Licenses"
+url = "credits-licenses/"
+weight = 5

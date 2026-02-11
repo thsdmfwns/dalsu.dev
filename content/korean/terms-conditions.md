@@ -4,27 +4,72 @@ description: "this is meta description"
 draft: false
 ---
 
+최종 업데이트: 2026-02-11
 
-#### Responsibility of Contributors
+본 이용약관(이하 “약관”)은 본 기술 블로그(이하 “사이트”)의 이용과 관련하여 운영자와 이용자 간의 권리·의무 및 이용 조건을 정합니다. 사이트를 이용함으로써 이용자는 본 약관에 동의한 것으로 간주됩니다.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed 
+### 1. 운영 주체 및 연락처
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+- 운영 주체: 개인 운영
+    
+- 연락 방법: 이메일 `son2044@gmail.com`
+    
 
-#### Gathering of Personal Information
+### 2. 약관의 적용 및 변경
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+1. 본 약관은 사이트에 게시함으로써 효력이 발생합니다.
+    
+2. 운영자는 관련 법령을 위반하지 않는 범위에서 약관을 변경할 수 있습니다.
+    
+3. 약관이 변경되는 경우, 운영자는 사이트 내 공지 또는 게시를 통해 변경 내용을 안내할 수 있습니다. 변경된 약관은 게시 시점부터 적용됩니다.
+    
 
-#### Protection of  Personal- Information
+### 3. 콘텐츠 이용 및 저작권
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. 
+- 사이트에 게시된 글, 이미지, 문서 등 콘텐츠(이하 “콘텐츠”) 중 **운영자가 직접 작성·제작한 원저작물**은, 별도 표기가 없는 한 [**Creative Commons Attribution 4.0 International (CC BY 4.0)**](https://creativecommons.org/licenses/by/4.0/) 라이선스로 제공됩니다.
+    
+- 이용자는 CC BY 4.0의 조건 하에 콘텐츠를 **복사, 배포, 전송, 전시, 공연, 수정, 2차 저작물 작성 및 상업적 이용**을 포함하여 자유롭게 이용할 수 있습니다.
+    
+- 다만 이용자는 다음 사항을 준수해야 합니다.
+    
+    - **저작자 표시(Attribution)**: 적절한 저작자 표시를 하고, 라이선스 링크를 제공해야 합니다.
+        
+    - **변경 표시(Indicate changes)**: 수정·가공·번역 등 변경이 있는 경우 변경 사실을 표시해야 합니다.
+        
+    - **추가 제한 금지(No additional restrictions)**: 라이선스가 허용하는 행위를 법적/기술적 조치(DRM 등)로 추가 제한할 수 없습니다.
+        
+- 다음의 경우에는 해당 권리자 또는 출처가 정한 조건이 우선 적용됩니다.
+    
+    - 사이트에 포함된 **제3자 저작물**(예: 외부 이미지, 인용문, 스크린샷, 라이브러리 문서 일부 등)
+        
+    - 콘텐츠 내에 **별도의 라이선스/출처/이용 조건**이 명시된 부분
+        
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat 
+### 4. 오픈소스 코드 라이선스
 
-#### Privacy Policy Changes
+사이트에서 제공되는 코드(예제 코드, 샘플 프로젝트, 스니펫 등) 중 운영자가 저작권을 보유한 부분은 **MIT License**를 따릅니다.  
+코드에 별도의 라이선스 표기가 있는 경우 해당 표기가 우선합니다.
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but  limited to, email addresses, telephone numbers
-4. Any Update come in The technology  Customer will get automatic  Notification.
+### 5. 외부 링크 및 외부 서비스
+
+1. 사이트는 편의를 위해 외부 웹사이트로 연결되는 링크를 포함할 수 있습니다. 외부 사이트의 콘텐츠, 정책, 보안, 이용 조건은 해당 외부 사이트의 약관 및 정책을 따르며 운영자는 이를 통제하지 않습니다.
+    
+2. 사이트는 댓글, 분석, 임베드 등 일부 기능을 위해 외부 서비스를 사용할 수 있습니다. 이용자는 외부 서비스 제공자의 약관 및 정책이 함께 적용될 수 있음을 이해하고 동의합니다.
+    
+
+### 6. 이용자 생성 콘텐츠
+
+1. 이용자가 댓글 등으로 게시하는 콘텐츠(이하 “이용자 콘텐츠”)에 대한 책임은 작성한 이용자에게 있습니다.
+    
+### 7. 접근 제한 및 서비스 변경
+
+운영자는 사이트의 안정적 운영을 위해 다음을 수행할 수 있습니다.
+
+- 서비스의 일부 또는 전체의 변경, 중단, 종료
+    
+- 비정상적 트래픽, 보안 위협, 정책 위반 행위에 대한 접근 제한
+    
+
+### 8. 준거법 및 분쟁
+
+본 약관은 대한민국 법령을 준거법으로 합니다. 사이트 이용과 관련하여 분쟁이 발생하는 경우, 당사자 간 협의로 원만히 해결하도록 노력합니다.
