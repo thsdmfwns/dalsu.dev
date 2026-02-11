@@ -41,7 +41,7 @@ draft: false
 
 ---
 
-## 3) 아이콘 글리프 출처 (Nerd Fonts를 통해 사용)
+### 3) 아이콘 글리프 출처 (Nerd Fonts를 통해 사용)
 
 #### Octicons (nf-oct-*)
 
@@ -65,7 +65,7 @@ draft: false
 
 ---
 
-## 4) 테마
+### 4) 테마
 
 - Hugo Theme: **bookworm-light-hugo**
     
@@ -76,7 +76,7 @@ draft: false
 
 ---
 
-## 5) 외부 서비스/플랫폼
+### 5) 외부 서비스/플랫폼
 
 - 호스팅: Cloudflare Pages
     

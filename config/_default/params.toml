@@ -116,17 +116,9 @@ button = "동의합니다"
 
 # Social Icons
 [[social]]
-icon = "lab la-facebook-f"        # https://icons8.com/line-awesome
-url = "https://www.facebook.com/"
+icon = "lab la-github"        # https://icons8.com/line-awesome
+url = "https://www.github.com/thsdmwfns"
 
 [[social]]
-icon = "lab la-twitter"          # https://icons8.com/line-awesome
-url = "https://www.twitter.com/"
-
-[[social]]
-icon = "lab la-instagram"          # https://icons8.com/line-awesome
-url = "https://www.instagram.com/"
-
-[[social]]
-icon = "lab la-linkedin-in"       # https://icons8.com/line-awesome
-url = "https://www.linkedin.com/"
+icon = "lab la-discord"        # https://icons8.com/line-awesome	
+url = "https://www.github.com/thsdmwfns"

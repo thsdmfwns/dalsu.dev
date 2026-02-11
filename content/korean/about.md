@@ -7,22 +7,13 @@ draft: false
 #caption
 caption:
   enable: true
-  title: "I’m Henara Colii, A content writer based in LDN, currently at Bookworm."
+  title: "쓸모있는걸 만드는게 목표인 개발자, SonDev입니다."
 
 # social
 social:
   enable: true
   social_links:
-  - link: "https://www.facebook.com/"
-    icon: "lab la-facebook-f"
-
-  - link: "https://www.twitter.com/"
-    icon: "lab la-twitter"
-    
-  - link: "https://www.linkedin.com/"
-    icon: "lab la-linkedin-in"
-    
-  - link: "https://www.github.com/"
+  - link: "https://www.github.com/thsdmfwns"
     icon: "lab la-github"
 
 # what_i_do
@@ -30,15 +21,15 @@ what_i_do:
   title: "What I Do"
   enable: true
   item:
-  - title: "Content Writing"
+  - title: "Infra"
     icon: "las la-pen-nib"
     description: "Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus eget ipsum elementum venenatis."
     
-  - title: "Photography"
+  - title: "BackEnd"
     icon: "las la-camera"
     description: "Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis."
     
-  - title: "Web Research"
+  - title: "Real Time Streaming"
     icon: "lar la-snowflake"
     description: "Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis."
  
