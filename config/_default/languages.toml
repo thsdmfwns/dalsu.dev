@@ -1,7 +1,7 @@
 ################ English language ##################
-[en]
-languageName = "En"
-languageCode = "en-us"
-contentDir = "content/english"
+[ko]
+languageName = "ko"
+languageCode = "ko-kr"
+contentDir = "content/korean"
 weight = 1
 

@@ -1,0 +1,68 @@
+- id: search_placeholder
+  translation: 검색하기
+
+- id: our_instagram
+  translation: Instagram
+
+- id: name
+  translation: 이름
+
+- id: email
+  translation: 이메일
+
+- id: subject
+  translation: 주제
+
+- id: message
+  translation: 메세지 입력
+
+- id: send_message
+  translation: 메세지 전송
+
+- id: search_result_for
+  translation: 검색 결과
+
+- id: you_may_also_like
+  translation: 이건 어떤가요
+
+- id: most_recent_post
+  translation: 최근 포스트
+
+- id: written_by
+  translation: 작성자
+
+- id: read_more
+  translation: Read More
+  
+- id: read_article
+  translation: Read Article
+
+- id: showing_posts_from
+  translation: ""
+  
+- id: home
+  translation: Home
+
+- id: search
+  translation: Search
+
+- id: categories
+  translation: Categories
+
+- id: tags
+  translation: Tags
+
+- id: social
+  translation: Social
+
+- id: copyright-text
+  translation: Developed By
+
+- id: search_input_placeholder
+  translation: 검색어를 입력하세요..
+
+- id: no_results_for
+  translation: 아무련 결과가 없습니다.
+
+- id: empty_search_results_placeholder
+  translation: 검색어를 입력하세요..

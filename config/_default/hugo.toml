@@ -1,3 +1,5 @@
+
+
 ######################## default configuration ####################
 baseURL = "/"
 title = "dalsu.dev"
@@ -8,6 +10,8 @@ timeZone = "Asia/Seoul"
 pagination.pagerSize = 5 # see https://gohugo.io/extras/pagination/
 # post excerpt
 summaryLength = 10 # see https://gohugo.io/content-management/excerpts/
+languageCode = "ko-KR"
+defaultContentLanguage = "ko"
 
 ############################# Modules ############################
 [module]
