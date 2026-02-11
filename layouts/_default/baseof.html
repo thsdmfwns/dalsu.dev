@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="{{ site.LanguageCode | default `ko-KR` }}" itemscope itemtype="http://schema.org/WebPage">
+<head>
+  {{ partial "essentials/head.html" . }}
+
+  {{ if hugo.IsProduction }}
+    {{ partialCached "essentials/style.html" . }}
+  {{ else }}
+    {{ partial "essentials/style.html" . }}
+  {{ end }}
+</head>
+
+<body>
+  {{ if hugo.IsProduction }}
+    {{ partial "essentials/header.html" . }}
+    {{ partialCached "preloader.html" . }}
+  {{ else }}
+    {{ partial "essentials/header.html" . }}
+    {{ partial "preloader.html" . }}
+  {{ end }}
+
+  {{ if and
+    (not .IsHome)
+    (ne .Section "blog")
+    (ne .Section "homepage")
+    (ne .Permalink ("/about/" | absLangURL))
+    (ne .Permalink ("/search/" | absLangURL))
+    (ne .Kind "404")
+  }}
+    {{ partial "components/page-header.html" . }}
+  {{ end }}
+
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  {{ if hugo.IsProduction }}
+    {{ partialCached "essentials/footer.html" . }}
+    {{ partialCached "essentials/script.html" . }}
+  {{ else }}
+    {{ partial "essentials/footer.html" . }}
+    {{ partial "essentials/script.html" . }}
+  {{ end }}
+
+  {{ if .Store.Get "hasMermaid" }}
+    <script type="module">
+      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.esm.min.mjs';
+      mermaid.initialize({ startOnLoad: true });
+    </script>
+  {{ end }}
+</body>
+</html>
