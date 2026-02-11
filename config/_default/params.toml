@@ -1,6 +1,6 @@
 #################### default parameters ################################
 # favicon
-favicon = "images/favicon.png"
+favicon = "images/favicon.webp"
 # logo
 logo = "images/logo.svg"
 # use `px` or `x` with logo_width, example: "100px".
