@@ -158,4 +158,4 @@ go.sum
 yarn.lock
 
 **/.obsidian
-content/korean/images/*
+images/*
