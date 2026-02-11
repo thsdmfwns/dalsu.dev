@@ -1,8 +1,8 @@
 - id: search_placeholder
-  translation: Click to search..
+  translation: 검색하기
 
 - id: our_instagram
-  translation: Our Instagram
+  translation: Instagram
 
 - id: name
   translation: 이름
@@ -11,25 +11,25 @@
   translation: 이메일
 
 - id: subject
-  translation: Subject
+  translation: 주제
 
 - id: message
-  translation: Your Message Here
+  translation: 메세지 입력
 
 - id: send_message
-  translation: Send Message
+  translation: 메세지 전송
 
 - id: search_result_for
-  translation: Search results for
+  translation: 검색 결과
 
 - id: you_may_also_like
-  translation: You May Also Like
+  translation: 추천 포스트 
 
 - id: most_recent_post
-  translation: Our Most Recent Post
+  translation: 최근 포스트
 
 - id: written_by
-  translation: Written By
+  translation: 작성자
 
 - id: read_more
   translation: Read More
@@ -56,7 +56,7 @@
   translation: Social
 
 - id: copyright-text
-  translation: Designed & Developed By
+  translation: Developed By
 
 - id: search_input_placeholder
   translation: 검색어를 입력하세요..

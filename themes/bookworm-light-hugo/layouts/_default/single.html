@@ -56,7 +56,31 @@
           {{- partial "post-share.html" . -}}
         </div>
       </div>
+
+      <div class="row justify-content-center mt-5">
+        <div class="col-lg-10">
+          <div class="giscus"></div>
+
+          <script src="https://giscus.app/client.js"
+            data-repo="thsdmfwns/dalsu.dev"
+            data-repo-id="R_kgDORMnuzQ"
+            data-category="comment"
+            data-category-id="DIC_kwDORMnuzc4C2Lle"
+            data-mapping="pathname"
+            data-strict="0"
+            data-reactions-enabled="1"
+            data-emit-metadata="0"
+            data-input-position="top"
+            data-theme="light_tritanopia"
+            data-lang="ko"
+            crossorigin="anonymous"
+            async>
+          </script>
+        </div>
+      </div>
     </div>
+
+
 
     {{ if .Params.Author }}
       <div class="single-post-author">
@@ -86,8 +110,13 @@
       </div>
     {{ end }}
 
+
+
     {{ $related := (where site.RegularPages "Section" "blog") | intersect (where site.Pages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) }}
     {{ if $related }}
+
+
+
       <div class="single-post-similer">
         <div class="row justify-content-center">
           <div class="col-lg-10">
@@ -125,3 +154,4 @@
 {{ end }}
 
 {{ end }}
+
