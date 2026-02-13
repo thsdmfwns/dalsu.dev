@@ -4,7 +4,7 @@ description: meta description
 image: image path
 date: "{{date:YYYY-MM-DD}}T{{time:HH:mm:ss}}+09:00"
 draft: false
-author: author
+author: SonDev
 tags:
   - "#tag"
 categories:
