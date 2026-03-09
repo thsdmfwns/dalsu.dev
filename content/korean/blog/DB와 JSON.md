@@ -1,6 +1,6 @@
 ---
 title: DB와 JSON
-description: meta description
+description: MySQL JSON과 PostgreSQL jsonb를 비교하고, GIN 인덱스 유무에 따른 Insert·Query·Update 벤치마크 결과를 정리했다.
 image: images/post/DB&JSON.png
 date: 2026-03-08T11:36:48+09:00
 draft: false
